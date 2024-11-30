@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Chandransh</h1>
 <h3 align="center">Depression is my bestfriend, cause it never leaves me.</h3>
 
-- 🤝 I’m looking for help with **my life**
+- 😂 Life doesn't make sense anymore
 
-- 📫 How to reach me **chandranshbinjola@outlook.com**
+- 📨 How to reach me **chandranshbinjola@outlook.com**
 
-- ⚡ Fun fact **I think I'm DUMB!**
+- 🤡 Fun fact **I can't think anymore**
 
-- Currently fighting against my mental problems and **I JUST CAN'T TAKE IT ANYMORE**
+- 👍Currently fighting against my mental problems and **I JUST CAN'T TAKE IT ANYMORE**
 
-- 
+- 🫤Working on my mental health "kinda"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
