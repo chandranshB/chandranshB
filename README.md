@@ -7,6 +7,10 @@
 
 - ⚡ Fun fact **I think I'm DUMB!**
 
+- Currently fighting against my mental problems and **I JUST CAN'T TAKE IT ANYMORE**
+
+- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
