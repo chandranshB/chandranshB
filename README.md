@@ -5,11 +5,7 @@
 
 - 📨 How to reach me **chandranshbinjola@outlook.com**
 
-- 🤡 Fun fact **I can't think anymore**
-
-- 👍Currently fighting against my mental problems and **I JUST CAN'T TAKE IT ANYMORE**
-
-- 🫤Working on my mental health "kinda"
+- 🤡Currently fighting against my mental problems and **I JUST CAN'T TAKE IT ANYMORE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
