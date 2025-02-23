@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chandransh</h1>
 <h3 align="center">Depression is my bestfriend, cause it never leaves me.</h3>
 
-- 😂 Life doesn't make sense anymore
-
 - 📨 How to reach me **chandranshbinjola@outlook.com**
 
 - 🤡Currently fighting against my mental problems and **I JUST CAN'T TAKE IT ANYMORE**
@@ -21,5 +19,5 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandransh186&show_icons=true&locale=en&layout=compact" alt="chandransh186" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandranshB&show_icons=true&locale=en&layout=compact" alt="chandransh186" /></p>
 
