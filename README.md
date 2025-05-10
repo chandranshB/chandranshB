@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chandransh</h1>
 <h3 align="center">Depression is my bestfriend, cause it never leaves me.</h3>
 
-- 📨 How to reach me **chandranshbinjola@outlook.com**
-
-- 🤡Currently fighting against my mental problems and **I JUST CAN'T TAKE IT ANYMORE**
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
