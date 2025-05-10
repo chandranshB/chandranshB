@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Chandransh</h1>
-<h3 align="center">Depression is my bestfriend, cause it never leaves me.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
