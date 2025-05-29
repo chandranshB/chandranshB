@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I am chandransh and it is my hobby to make program that are or actual use!</h2>
+<h2 align="left">Hi 👋! I am chandransh and it is my hobby to make program that are of actual use!</h2>
 
 ###
 
