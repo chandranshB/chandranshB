@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! I am chandransh and it is my hobby to make program that are of actual use!</h2>
-
+### Keep in mind that "Original work isn't a template."
 ###
 
 <div align="center">
