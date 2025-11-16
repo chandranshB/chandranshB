@@ -1,8 +1,9 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 <h2 align="left">Hi 👋! I am chandransh and it is my hobby to make program that are of actual use!</h2>
-> "Original work isn't a template."
->-<cite>chandransh</cite>
-
+   <blockquote>
+        <p>Original work isn't a template.</p>
+        <footer>— chandranshB</footer>
+    </blockquote>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cloudflare" height="60" alt="cloudflare logo"  />
