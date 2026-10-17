@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 38" width="100%" height="38" fill="none">
+  <!-- GitHub Native Proportional Language Bar -->
+  <g>
+    <rect x="0.0" y="2" width="52.0" height="6" fill="#3178c6" rx="3"/>
+    <rect x="52.0" y="2" width="416.0" height="6" fill="#3572A5" rx="3"/>
+    <rect x="468.0" y="2" width="208.0" height="6" fill="#dea584" rx="3"/>
+    <rect x="676.0" y="2" width="52.0" height="6" fill="#A97BFF" rx="3"/>
+    <rect x="728.0" y="2" width="52.0" height="6" fill="#ff5a03" rx="3"/>
+    <rect x="780.0" y="2" width="52.0" height="6" fill="#00B4AB" rx="3"/>
+  </g>
+
+  <!-- Clean Typographic Legend -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500">
+    <circle cx="5" cy="26" r="4" fill="#3178c6"/>
+    <text x="14" y="30" fill="#e6edf3">TypeScript <tspan fill="#7d8590">6%</tspan></text>
+    <circle cx="143" cy="26" r="4" fill="#3572A5"/>
+    <text x="152" y="30" fill="#e6edf3">Python <tspan fill="#7d8590">50%</tspan></text>
+    <circle cx="281" cy="26" r="4" fill="#dea584"/>
+    <text x="290" y="30" fill="#e6edf3">Rust <tspan fill="#7d8590">25%</tspan></text>
+    <circle cx="419" cy="26" r="4" fill="#A97BFF"/>
+    <text x="428" y="30" fill="#e6edf3">Kotlin <tspan fill="#7d8590">6%</tspan></text>
+    <circle cx="557" cy="26" r="4" fill="#ff5a03"/>
+    <text x="566" y="30" fill="#e6edf3">Astro <tspan fill="#7d8590">6%</tspan></text>
+    <circle cx="695" cy="26" r="4" fill="#00B4AB"/>
+    <text x="704" y="30" fill="#e6edf3">Dart <tspan fill="#7d8590">6%</tspan></text>
+  </g>
+</svg>
